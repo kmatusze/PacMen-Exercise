@@ -1,7 +1,7 @@
 # PacMen-Exercise
-This exercise contains code for building a feature of the PacMen game, displaying and moving PacMen from one side of the screen to the other.
+This exercise contains code for building a feature of the PacMan game, displaying and moving a PacMan from one side of the screen to the other. (NOTE: multiple images of a PacMan eludes to the plural form of PacMen)
 
-**How to Run:** Use the starter code to help you get up and running. The starter code includes an images folder that contains images representing PacMen at different stages with mouths open and mouths closed. It contains an HTML file displaying the PacMan as well as a JS file that contains the animation. Check the setInterval function and update the checkPageBounds function that allows PacMan to reverse trajectory. 
+**How to Run:** Use the starter code to help you get up and running. The starter code includes an images folder that contains mulitple images representing a PacMan at different stages with mouths open and mouths closed. It contains an HTML file displaying the PacMan as well as a JS file that contains the JS animation. Check the setInterval function and update the checkPageBounds function that allows PacMan to reverse trajectory as the PacMan image hits the edge of the screen on the x-axis. 
 
 **Roadmap of future improvements:** Future improvements include additional images, increased setInterval functionality and updating the checkPageBounds direction and widths. 
 
